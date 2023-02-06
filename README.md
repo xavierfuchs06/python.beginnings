@@ -1,3 +1,3 @@
-# My-first-Python-code
+# Beginning of Python
 
-This is where I present my work and look back to see how far I've come..
+My progress with python in the computer science class my school offered for the first half of 11th grade. Yes I am mad about it only being half of a school year.
